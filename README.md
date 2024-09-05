@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ammar</h1>
-<h3 align="center">AI Developer and Python Expert from Yemen, building intelligent solutions for tomorrow.</h3>
+<h3 align="center">AI Developer and Python Expert, building intelligent solutions for tomorrow.</h3>
 
 - 🔭 I’m currently working on [AI-powered Valorant bot](private)
 
